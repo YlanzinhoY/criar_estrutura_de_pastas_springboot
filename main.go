@@ -8,6 +8,7 @@ import (
 func dir() {
 
 	dirs := []string{
+		"configuration",
 		"controller",
 		"exception",
 		"dto",
